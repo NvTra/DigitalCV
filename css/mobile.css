@@ -1,0 +1,16 @@
+@media (max-width: 768px) {
+  /* Narbar*/
+  #nav-bar .container {
+    flex-direction: column;
+  }
+  /* giải thưởng */
+  .cer-box img {
+    width: 100%;
+  }
+  .cer-box1 {
+    border-right: none;
+  }
+  .f-colum {
+    flex-direction: column;
+  }
+}
